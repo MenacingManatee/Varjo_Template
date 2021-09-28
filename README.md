@@ -1,4 +1,4 @@
-# OpenXR Base Template
+# Varjo Base Template
 
 ## About / synopsis
 A base template meant to be forked/cloned as a starting point to save on setup for other projects
@@ -16,6 +16,10 @@ Repo contains:
         - Hand locations are accurate
         
         - Custom hand animations for grip and trigger
+
+    - Varjo SDK enabled
+
+        - Needs to be tested
 
 ## Built With
 
