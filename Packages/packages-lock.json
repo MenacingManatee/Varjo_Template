@@ -149,16 +149,14 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.unity.xr.openxr": {
-      "version": "1.2.8",
+    "com.varjo.xr": {
+      "version": "https://github.com/varjocom/VarjoUnityXRPlugin.git",
       "depth": 0,
-      "source": "registry",
+      "source": "git",
       "dependencies": {
-        "com.unity.xr.management": "4.0.1",
-        "com.unity.xr.legacyinputhelpers": "2.1.2",
-        "com.unity.inputsystem": "1.0.2"
+        "com.unity.xr.management": "3.2.13"
       },
-      "url": "https://packages.unity.com"
+      "hash": "a6efdede589385468c75bd669790f9b0e9221e18"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
